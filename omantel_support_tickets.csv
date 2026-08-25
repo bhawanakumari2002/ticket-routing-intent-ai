@@ -1,0 +1,246 @@
+ticket_id,ticket_text,team
+TKT70000,My account is too high can you explain,Billing
+TKT70001,My bill shows extra charges again,Billing
+TKT70002,My replacement SIM is not activating on my phone,SIM_Activation
+TKT70003,Please help me change my package this month,Plan_Change
+TKT70004,I want to get more data please,Plan_Change
+TKT70005,My new SIM shows no service on my phone,SIM_Activation
+TKT70006,How do I downgrade to save money for the National Day offer,Plan_Change
+TKT70007,My internet is very slow,Network
+TKT70008,The invoice shows extra charges I need a refund,Billing
+TKT70009,My internet is not working since morning,Network
+TKT70010,My last payment is too high,Billing
+TKT70011,How do I upgrade my plan,Plan_Change
+TKT70012,My internet is not working in my home,Network
+TKT70013,My new number shows no service please help,SIM_Activation
+TKT70014,My data has no coverage,Network
+TKT70015,My new number failed to activate on my phone,SIM_Activation
+TKT70016,I want to get more data for the National Day offer,Plan_Change
+TKT70017,My bill is wrong can you explain,Billing
+TKT70018,The network is not working in Nizwa,Network
+TKT70019,The eSIM shows no service,SIM_Activation
+TKT70020,The invoice was taken twice this month,Billing
+TKT70021,The invoice shows extra charges,Billing
+TKT70022,Calls is very slow all day,Network
+TKT70023,My bill is incorrect please check,Billing
+TKT70024,I want to downgrade to save money,Plan_Change
+TKT70025,My data is not working all day,Network
+TKT70026,My last payment shows extra charges I need a refund,Billing
+TKT70027,Calls has no coverage since morning,Network
+TKT70028,The eSIM will not register please help,SIM_Activation
+TKT70029,My new number will not register,SIM_Activation
+TKT70030,My data is weak,Network
+TKT70031,Please help me switch to postpaid please,Plan_Change
+TKT70032,My account is too high this month,Billing
+TKT70033,My bill is too high again,Billing
+TKT70034,The invoice shows extra charges again,Billing
+TKT70035,My internet keeps dropping in Sohar,Network
+TKT70036,The connection has no coverage,Network
+TKT70037,How do I downgrade to save money please,Plan_Change
+TKT70038,The QR code is not activating,SIM_Activation
+TKT70039,I changed my plan but now the internet does not work,Network
+TKT70040,The network has no coverage since morning,Network
+TKT70041,The signal is weak,Network
+TKT70042,My internet keeps dropping,Network
+TKT70043,The charge shows extra charges can you explain,Billing
+TKT70044,How do I upgrade my plan for the National Day offer,Plan_Change
+TKT70045,The connection is not working all day,Network
+TKT70046,How do I upgrade my plan this month,Plan_Change
+TKT70047,My account shows extra charges can you explain,Billing
+TKT70048,I want to switch to postpaid for the National Day offer,Plan_Change
+TKT70049,How do I switch to postpaid for the National Day offer,Plan_Change
+TKT70050,Please help me upgrade my plan this month,Plan_Change
+TKT70051,The connection keeps dropping since morning,Network
+TKT70052,My replacement SIM is not activating how long does it take,SIM_Activation
+TKT70053,My data has no coverage in my home,Network
+TKT70054,My bill is incorrect I need a refund,Billing
+TKT70055,Calls keeps dropping today,Network
+TKT70056,The QR code failed to activate how long does it take,SIM_Activation
+TKT70057,My replacement SIM will not register how long does it take,SIM_Activation
+TKT70058,The QR code failed to activate,SIM_Activation
+TKT70059,Can I switch to postpaid for the National Day offer,Plan_Change
+TKT70060,My new SIM is not activating please help,SIM_Activation
+TKT70061,My data has no coverage today,Network
+TKT70062,The QR code shows no service how long does it take,SIM_Activation
+TKT70063,Can I downgrade to save money please,Plan_Change
+TKT70064,Calls is weak since morning,Network
+TKT70065,The connection has no coverage today,Network
+TKT70066,Calls is very slow in Sohar,Network
+TKT70067,My data is weak today,Network
+TKT70068,My new SIM is not activating,SIM_Activation
+TKT70069,I would like to switch to postpaid,Plan_Change
+TKT70070,My new SIM will not register on my phone,SIM_Activation
+TKT70071,Please help me get more data this month,Plan_Change
+TKT70072,The signal is very slow all day,Network
+TKT70073,The invoice is too high I need a refund,Billing
+TKT70074,Can I downgrade to save money,Plan_Change
+TKT70075,How do I change my package this month,Plan_Change
+TKT70076,The QR code is not activating please help,SIM_Activation
+TKT70077,The invoice shows extra charges can you explain,Billing
+TKT70078,My bill shows extra charges please check,Billing
+TKT70079,The connection is very slow,Network
+TKT70080,My new number failed to activate since yesterday,SIM_Activation
+TKT70081,My internet is not working in Salalah,Network
+TKT70082,The network is very slow since morning,Network
+TKT70083,My new number failed to activate,SIM_Activation
+TKT70084,How do I switch to postpaid this month,Plan_Change
+TKT70085,My new number failed to activate please help,SIM_Activation
+TKT70086,The charge was taken twice please check,Billing
+TKT70087,My last payment is incorrect this month,Billing
+TKT70088,My account was taken twice this month,Billing
+TKT70089,My last payment is incorrect again,Billing
+TKT70090,My bill is too high this month,Billing
+TKT70091,I want to upgrade my plan this month,Plan_Change
+TKT70092,The signal is not working in Muscat,Network
+TKT70093,My internet keeps dropping since morning,Network
+TKT70094,My replacement SIM failed to activate,SIM_Activation
+TKT70095,My bill is incorrect this month,Billing
+TKT70096,Calls keeps dropping in Salalah,Network
+TKT70097,My new number failed to activate how long does it take,SIM_Activation
+TKT70098,I would like to upgrade my plan this month,Plan_Change
+TKT70099,The network keeps dropping in Sur,Network
+TKT70100,My last payment is wrong I need a refund,Billing
+TKT70101,The connection keeps dropping,Network
+TKT70102,I want to change my package for the National Day offer,Plan_Change
+TKT70103,My data is not working since morning,Network
+TKT70104,My new number is not activating on my phone,SIM_Activation
+TKT70105,My bill is too high I need a refund,Billing
+TKT70106,Can I get more data this month,Plan_Change
+TKT70107,I would like to get more data this month,Plan_Change
+TKT70108,I want to change my package this month,Plan_Change
+TKT70109,I would like to change my package,Plan_Change
+TKT70110,The charge is incorrect please check,Billing
+TKT70111,My last payment was taken twice please check,Billing
+TKT70112,The connection is very slow all day,Network
+TKT70113,My account is too high please check,Billing
+TKT70114,The connection has no coverage all day,Network
+TKT70115,The eSIM will not register on my phone,SIM_Activation
+TKT70116,The QR code will not register since yesterday,SIM_Activation
+TKT70117,The QR code will not register how long does it take,SIM_Activation
+TKT70118,My internet keeps dropping today,Network
+TKT70119,The network keeps dropping today,Network
+TKT70120,My replacement SIM will not register on my phone,SIM_Activation
+TKT70121,The eSIM failed to activate on my phone,SIM_Activation
+TKT70122,The connection is weak,Network
+TKT70123,The charge is incorrect I need a refund,Billing
+TKT70124,My new number is not activating since yesterday,SIM_Activation
+TKT70125,My bill was taken twice I need a refund,Billing
+TKT70126,My account is wrong this month,Billing
+TKT70127,My internet has no coverage today,Network
+TKT70128,My replacement SIM failed to activate please help,SIM_Activation
+TKT70129,My new number will not register since yesterday,SIM_Activation
+TKT70130,My bill was taken twice can you explain,Billing
+TKT70131,Can I upgrade my plan this month,Plan_Change
+TKT70132,My last payment was taken twice this month,Billing
+TKT70133,My replacement SIM is not activating,SIM_Activation
+TKT70134,My account is wrong I need a refund,Billing
+TKT70135,The connection keeps dropping in Sur,Network
+TKT70136,My last payment is too high can you explain,Billing
+TKT70137,My new SIM shows no service since yesterday,SIM_Activation
+TKT70138,My replacement SIM shows no service on my phone,SIM_Activation
+TKT70139,My new SIM shows no service how long does it take,SIM_Activation
+TKT70140,The invoice was taken twice I need a refund,Billing
+TKT70141,The eSIM is not activating since yesterday,SIM_Activation
+TKT70142,The network is not working all day,Network
+TKT70143,Please help me change my package please,Plan_Change
+TKT70144,Can I switch to postpaid,Plan_Change
+TKT70145,My data keeps dropping today,Network
+TKT70146,Please help me change my package for the National Day offer,Plan_Change
+TKT70147,Calls is weak,Network
+TKT70148,My bill shows extra charges can you explain,Billing
+TKT70149,I want to change my package please,Plan_Change
+TKT70150,The charge shows extra charges,Billing
+TKT70151,The network is very slow all day,Network
+TKT70152,The charge shows extra charges I need a refund,Billing
+TKT70153,I would like to switch to postpaid for the National Day offer,Plan_Change
+TKT70154,The National Day offer charged me but my SIM is not active,SIM_Activation
+TKT70155,Calls is not working in Nizwa,Network
+TKT70156,My last payment was taken twice,Billing
+TKT70157,How do I get more data please,Plan_Change
+TKT70158,The invoice shows extra charges please check,Billing
+TKT70159,The signal keeps dropping,Network
+TKT70160,I would like to change my package for the National Day offer,Plan_Change
+TKT70161,My new number shows no service since yesterday,SIM_Activation
+TKT70162,My bill was taken twice,Billing
+TKT70163,My new SIM will not register please help,SIM_Activation
+TKT70164,My new number will not register please help,SIM_Activation
+TKT70165,My account shows extra charges please check,Billing
+TKT70166,My internet is very slow today,Network
+TKT70167,My last payment is wrong can you explain,Billing
+TKT70168,My new SIM will not register,SIM_Activation
+TKT70169,I would like to switch to postpaid this month,Plan_Change
+TKT70170,Can I upgrade my plan,Plan_Change
+TKT70171,Please help me upgrade my plan for the National Day offer,Plan_Change
+TKT70172,My bill is wrong I need a refund,Billing
+TKT70173,The QR code is not activating how long does it take,SIM_Activation
+TKT70174,Calls has no coverage,Network
+TKT70175,The invoice is wrong I need a refund,Billing
+TKT70176,I want to upgrade my plan please,Plan_Change
+TKT70177,My account shows extra charges this month,Billing
+TKT70178,My new number is not activating how long does it take,SIM_Activation
+TKT70179,My data is very slow all day,Network
+TKT70180,The signal has no coverage today,Network
+TKT70181,The network is weak all day,Network
+TKT70182,How do I switch to postpaid,Plan_Change
+TKT70183,I want to switch to postpaid please,Plan_Change
+TKT70184,The signal is very slow,Network
+TKT70185,My bill was taken twice please check,Billing
+TKT70186,The invoice shows extra charges this month,Billing
+TKT70187,My last payment is wrong please check,Billing
+TKT70188,Please help me upgrade my plan,Plan_Change
+TKT70189,My new SIM failed to activate since yesterday,SIM_Activation
+TKT70190,My last payment is too high I need a refund,Billing
+TKT70191,The eSIM will not register,SIM_Activation
+TKT70192,The connection is very slow in Nizwa,Network
+TKT70193,I would like to downgrade to save money for the National Day offer,Plan_Change
+TKT70194,My new number shows no service how long does it take,SIM_Activation
+TKT70195,I would like to upgrade my plan for the National Day offer,Plan_Change
+TKT70196,I would like to get more data please,Plan_Change
+TKT70197,The connection is very slow in Salalah,Network
+TKT70198,The charge is wrong,Billing
+TKT70199,The signal has no coverage,Network
+TKT70200,The charge is wrong please check,Billing
+TKT70201,How do I get more data,Plan_Change
+TKT70202,My new SIM failed to activate how long does it take,SIM_Activation
+TKT70203,Can I downgrade to save money for the National Day offer,Plan_Change
+TKT70204,Please help me get more data please,Plan_Change
+TKT70205,My new plan shows the wrong price on my bill,Billing
+TKT70206,Can I get more data for the National Day offer,Plan_Change
+TKT70207,My replacement SIM will not register please help,SIM_Activation
+TKT70208,The charge was taken twice I need a refund,Billing
+TKT70209,My bill shows extra charges this month,Billing
+TKT70210,My internet keeps dropping in Salalah,Network
+TKT70211,The charge shows extra charges this month,Billing
+TKT70212,My account was taken twice I need a refund,Billing
+TKT70213,Can I change my package,Plan_Change
+TKT70214,My new SIM shows no service please help,SIM_Activation
+TKT70215,I would like to downgrade to save money please,Plan_Change
+TKT70216,I would like to change my package this month,Plan_Change
+TKT70217,I want to get more data,Plan_Change
+TKT70218,Calls is weak today,Network
+TKT70219,My account is incorrect please check,Billing
+TKT70220,My new number will not register on my phone,SIM_Activation
+TKT70221,I want to downgrade to save money this month,Plan_Change
+TKT70222,My account is incorrect again,Billing
+TKT70223,My bill was taken twice this month,Billing
+TKT70224,The eSIM shows no service since yesterday,SIM_Activation
+TKT70225,My data has no coverage all day,Network
+TKT70226,The eSIM failed to activate how long does it take,SIM_Activation
+TKT70227,My data keeps dropping in Sur,Network
+TKT70228,The connection has no coverage since morning,Network
+TKT70229,The connection keeps dropping all day,Network
+TKT70230,Calls keeps dropping since morning,Network
+TKT70231,I want to get more data this month,Plan_Change
+TKT70232,The signal is very slow since morning,Network
+TKT70233,Please help me downgrade to save money for the National Day offer,Plan_Change
+TKT70234,How do I switch to postpaid please,Plan_Change
+TKT70235,The signal has no coverage in Sur,Network
+TKT70236,Slow internet and my bill went up too this month,Network
+TKT70237,My account is wrong again,Billing
+TKT70238,Please help me get more data,Plan_Change
+TKT70239,My internet is not working in Sur,Network
+TKT70240,Calls is very slow,Network
+TKT70241,The charge is wrong again,Billing
+TKT70242,The signal is weak all day,Network
+TKT70243,The eSIM shows no service how long does it take,SIM_Activation
+TKT70244,The connection keeps dropping today,Network
